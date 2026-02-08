@@ -1,4 +1,4 @@
-###Hi there, I'm Laura 👋 
+## Hi there, I'm Laura 👋 
 
 I'm a Software Engineer with a strong mathematical background, bridging the gap between Data Science research and production-ready applications.
 
@@ -6,7 +6,7 @@ I'm a Software Engineer with a strong mathematical background, bridging the gap 
 * **[InstrumentRecognitionResearch](https://github.com/Iaura-w/InstrumentRecognitionResearch)**: Comprehensive ML study on audio classification with precise metric evaluation.
 * **[InstrumentFinder](https://github.com/Iaura-w/InstrumentFinder)**: Kotlin-based mobile app integrated with an ML backend for real-time recognition.
 * **[BookStoreEnterprise](https://github.com/Iaura-w/BookStoreEnterprise)**: Web application for managing an online bookstore, providing an interface.
-* **[LibraryManagement](https://github.com/Iaura-w/libraryManagement)**: Practical application of database management and Java development.
+* **[LibraryManagement](https://github.com/Iaura-w/libraryManagement)**: Application for managing a library.
 
 #### 🛠 Tech Stack:
 - **Data Science:** Python (Scikit-learn, TensorFlow, Librosa, Pandas)
