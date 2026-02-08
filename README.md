@@ -5,7 +5,7 @@ I'm a Software Engineer with a strong mathematical background, bridging the gap 
 #### 🚀 Featured Projects:
 * **[InstrumentRecognitionResearch](https://github.com/Iaura-w/InstrumentRecognitionResearch)**: Comprehensive ML study on audio classification with precise metric evaluation.
 * **[InstrumentFinder](https://github.com/Iaura-w/InstrumentFinder)**: Kotlin-based mobile app integrated with an ML backend for real-time recognition.
-* **[BookStoreEnterprise](https://github.com/Iaura-w/BookStoreEnterprise)**: Scalable Java enterprise system demonstrating clean architecture and business logic.
+* **[BookStoreEnterprise](https://github.com/Iaura-w/BookStoreEnterprise)**: Web application for managing an online bookstore, providing an interface.
 * **[LibraryManagement](https://github.com/Iaura-w/libraryManagement)**: Practical application of database management and Java development.
 
 #### 🛠 Tech Stack:
