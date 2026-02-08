@@ -13,6 +13,6 @@ Interested in automation, backend systems, and bridging the gap between testing 
 #### 🛠 Tech Stack:
 - **QA Automation**: Java, Selenium, REST Assured, JUnit, TestNG
 - **Backend**: Java, Spring Boot
-- **Data & ML**: Python (Pandas, Scikit-learn, TensorFlow, Librosa)
+- **Data & ML (academic projects)**: Python (Pandas, Scikit-learn, TensorFlow, Librosa)
 - **Mobile**: Kotlin
 - **Tools & Others**: Git, Docker, SQL, Bash
