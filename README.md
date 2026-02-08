@@ -4,11 +4,17 @@ QA Automation Engineer with hands-on experience in Java-based test automation an
 Strong focus on test design, system behavior analysis, and quality-driven development.
 Interested in automation, backend systems, and bridging the gap between testing and engineering.
 
-#### 🚀 Featured Projects:
+### 🚀 Featured Projects:
+#### 📌 Machine Learning & Research
 * **[InstrumentRecognitionResearch](https://github.com/Iaura-w/InstrumentRecognitionResearch)**: Comprehensive ML study on audio classification with precise metric evaluation.
-* **[InstrumentFinder](https://github.com/Iaura-w/InstrumentFinder)**: Kotlin-based mobile app integrated with an ML backend for real-time recognition.
-* **[BookStoreEnterprise](https://github.com/Iaura-w/BookStoreEnterprise)**: Web application for managing an online bookstore, providing an interface.
-* **[LibraryManagement](https://github.com/Iaura-w/libraryManagement)**: Application for managing a library.
+
+#### 📌 Mobile Integration
+* **[InstrumentFinder](https://github.com/Iaura-w/InstrumentFinder)**: Android app integrating a machine learning backend for real-time instrument classification.
+
+### 📌 Backend
+* **[BookStoreEnterprise](https://github.com/Iaura-w/BookStoreEnterprise)**: Spring Boot web app with security, orders management, and PayU integration.
+
+* **[LibraryManagement](https://github.com/Iaura-w/libraryManagement)**: Spring Boot REST API for managing books, customers, and loans in a library system.
 
 #### 🛠 Tech Stack:
 - **QA Automation**: Java, Selenium, REST Assured, JUnit, TestNG
