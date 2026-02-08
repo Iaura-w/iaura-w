@@ -1,6 +1,8 @@
 ## Hi there, I'm Laura 👋 
 
-I'm a Software Engineer with a strong mathematical background, bridging the gap between Data Science research and production-ready applications.
+QA Automation Engineer with hands-on experience in Java-based test automation and backend-oriented projects.
+Strong focus on test design, system behavior analysis, and quality-driven development.
+Interested in automation, backend systems, and bridging the gap between testing and engineering.
 
 #### 🚀 Featured Projects:
 * **[InstrumentRecognitionResearch](https://github.com/Iaura-w/InstrumentRecognitionResearch)**: Comprehensive ML study on audio classification with precise metric evaluation.
@@ -9,7 +11,8 @@ I'm a Software Engineer with a strong mathematical background, bridging the gap 
 * **[LibraryManagement](https://github.com/Iaura-w/libraryManagement)**: Application for managing a library.
 
 #### 🛠 Tech Stack:
-- **Data Science:** Python (Scikit-learn, TensorFlow, Librosa, Pandas)
-- **Backend:** Java (Spring Boot), Flask
-- **Mobile:** Kotlin
-- **Tools:** Bash, SQL, QA Automation (Java/Selenium)
+- **QA Automation**: Java, Selenium, REST Assured, JUnit, TestNG
+- **Backend**: Java, Spring Boot
+- **Data & ML**: Python (Pandas, Scikit-learn, TensorFlow, Librosa)
+- **Mobile**: Kotlin
+- **Tools & Others**: Git, Docker, SQL, Bash
